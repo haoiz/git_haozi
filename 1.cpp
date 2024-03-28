@@ -10,7 +10,7 @@ int main()
 		
 	}
 	if(a==1){
-
+		printf("nihao"); 
 		}
 	else
 	{
