@@ -10,7 +10,7 @@ int main()
 		
 	}
 	if(a==1){
-			printf("%s","ÊÇ2µÄÃÝº¯Êý");
+
 		}
 	else
 	{
